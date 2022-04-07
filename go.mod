@@ -1,10 +1,10 @@
-module github.com/Taukon/my_container
+module github.com/Taukon/my_using_libcontainer
 
 go 1.18
 
 require (
-	github.com/opencontainers/runc v1.1.0
-	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
+	github.com/opencontainers/runc v1.1.1
+	golang.org/x/sys v0.0.0-20220406163625-3f8b81556e12
 )
 
 require (
